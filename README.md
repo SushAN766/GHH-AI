@@ -76,16 +76,16 @@ In a world of increasingly interconnected digital spaces—ranging from global o
 git clone https://github.com/yourusername/global-harmony-hub.git
 cd global-harmony-hub
 ```
-# Install dependencies
+### Install dependencies
 npm install
 
-# Setup Firebase configuration
-# - Add firebaseConfig files for both client and server
-# - Ensure authentication, Firestore, and storage rules are properly configured
+### Setup Firebase configuration
+- Add firebaseConfig files for both client and server
+- Ensure authentication, Firestore, and storage rules are properly configured
 
-# Run the development server
+### Run the development server
 npm run dev
 
-## Access the App
+### Access the App
 
 Open [http://localhost:3000](http://localhost:3000) in your browser.
